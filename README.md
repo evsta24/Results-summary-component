@@ -14,7 +14,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./mystyle/mystyle-image-results-summary-desktop.png)
+![image](https://github.com/evsta24/Results-summary-component/assets/159118157/45667dac-fb27-45a7-8903-c36faf67d27f)
 
 ## My process
 
