@@ -98,7 +98,7 @@ h2 {
 
 .table__summary h2 {
     color: hsl(224, 30%, 27%);
-    text-align: center;
+    text-align: left;
 }
 
 .table__senses {
@@ -194,8 +194,4 @@ button:hover {
         font-size: 15px;
     }
 
-
-
-
-
-    }
+}
